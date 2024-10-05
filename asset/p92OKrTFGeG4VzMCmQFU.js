@@ -1,0 +1,2 @@
+import{L as s}from"./85yZmE5PqfcNKC64qTgv.js";import{D as r}from"./CRVc6oM1S2A6wZaWXjdS.js";const e=new s("Globals"),o={load:()=>{e.info("Initializing Globals");const t=localStorage.getItem("routeSettings");t&&(o.routeSettings=JSON.parse(t),e.info("Loaded route settings from storage"))},save:()=>{localStorage.setItem("routeSettings",JSON.stringify(o.routeSettings))},routeSettings:r};export{o as G};
+//# sourceMappingURL=p92OKrTFGeG4VzMCmQFU.js.map

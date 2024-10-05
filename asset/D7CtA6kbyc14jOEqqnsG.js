@@ -1,0 +1,2 @@
+import{o as p,j as r,a0 as t}from"./DEYDuN7xp-m3cL830AkD.js";import{M as n}from"./C73Tq3vjy1xEqG9frX8c.js";import{S as i}from"./CsmB63G6d1IeJ_05kM4N.js";function u({group:o}){const{messages:s}=o;return r.jsx(r.Fragment,{children:s.map((e,a)=>e.type===t.Default||e.type===t.Reply?r.jsx(n,{message:e,header:a===s.length-1},e.id):r.jsx(i,{message:e},e.id))})}const x=p(u);export{x as M};
+//# sourceMappingURL=D7CtA6kbyc14jOEqqnsG.js.map
